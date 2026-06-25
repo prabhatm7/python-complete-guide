@@ -1,4 +1,5 @@
 1. https://www.codewithharry.com/blogpost/python-cheatsheet
 2. https://github.com/gto76/python-cheatsheet
 3. https://youtu.be/HGOBQPFzWKo?si=eml-0sAy5E5I0shz
-4. https://www.youtube.com/watch?v=W3L_TYNK2KM&list=PLti2cUZX-C8eTK4teufl7YUERn2kOFl0d
+4. https://www.youtube.com/watch?v=M-UtKxgtKag&t=1577sO
+5. https://www.youtube.com/watch?v=W3L_TYNK2KM&list=PLti2cUZX-C8eTK4teufl7YUERn2kOFl0d 
